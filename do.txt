@@ -15,6 +15,6 @@ MAC Address: 54:48:E6:31:0F:4C (Unknown)'
 
 4. to discover by py 'py discover_yeelight.py
 Scanning 192.168.0.0/24 ...
-FOUND 192.168.0.156'
+FOUND 192.168.0.156' then try this 'py yeelight_color.py 192.168.0.156 FFFFFF' 
 
-py yeelight_cli.py --on --rgb FF9900 --bright 70
+or py yeelight_cli.py --on --rgb FF9900 --bright 70

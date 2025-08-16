@@ -18,3 +18,7 @@ Scanning 192.168.0.0/24 ...
 FOUND 192.168.0.156' then try this 'py yeelight_color.py 192.168.0.156 FFFFFF' 
 
 or py yeelight_cli.py --on --rgb FF9900 --bright 70
+
+Use this :
+
+py yeelight_color.py 192.168.0.156 FFFFFF
